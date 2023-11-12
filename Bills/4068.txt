@@ -1,0 +1,21 @@
+	 Wlcome Code With Bhushan Mini Mall
+ Bill Number:4068
+ Customer Name:Pruthvi
+ Phone Number:9665545749
+ Customer Email:Pruthvi@gmail.com
+ =================================================
+ Products			QTY		Price
+ =================================================
+ Roadster			1		1800
+ Jack&jones			1		1800
+ Iphone_12			1		85000
+ Lux			1		20
+ Pearl			1		20
+
+
+ ================================================
+ Sub Amount:				Rs.88640.00
+ Tax Amount:				Rs.886.20
+ Total Amount:				Rs.89526.20
+ =================================================
+

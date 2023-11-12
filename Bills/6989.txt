@@ -1,0 +1,21 @@
+	 Welcome Code With Bhushan Mini Mall
+ Bill Number:6989
+ Customer Name:Sourabh
+ Phone Number:4396026849
+ Customer Email:Sourabh@gmail.com
+ ================================================
+ Products			QTY		Price
+ ================================================
+ Polo			1		1500
+ Olay			1		20
+ RedmePro			1		9000
+ Louis Phillipe			1		9000
+ Ponds			1		20
+
+
+ ================================================
+ Sub Amount:				Rs.19540.00
+ Tax Amount:				Rs.195.20
+ Total Amount:				Rs.19735.20
+ =================================================
+

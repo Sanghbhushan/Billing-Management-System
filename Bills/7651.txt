@@ -1,0 +1,21 @@
+	 Welcome Code With Bhushan Mini Mall
+ Bill Number:7651
+ Customer Name:Suraj
+ Phone Number:9404359363
+ Customer Email:Suraj@gmail.com
+ =================================================
+ Products			QTY		Price
+ =================================================
+ Park Avenue			1		1740
+ Ponds			1		20
+ Bajaj			1		30
+ Jashmin			1		22
+ Iphone_12			1		85000
+
+
+ ================================================
+ Sub Amount:				Rs.86812.00
+ Tax Amount:				Rs.18.12
+ Total Amount:				Rs.86830.12
+ =================================================
+

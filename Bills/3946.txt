@@ -1,0 +1,21 @@
+	 Welcome Code With Bhushan Mini Mall
+ Bill Number:3946
+ Customer Name:satish
+ Phone Number:3748596378
+ Customer Email:satish@gmail.com
+ =================================================
+ Products			QTY		Price
+ =================================================
+ Bajaj			1		30
+ Olay			1		20
+ Ponds			1		20
+ Louis Phillipe			1		20
+ Peter England			1		2700
+
+
+ ================================================
+ Sub Amount:				Rs.2790.00
+ Tax Amount:				Rs.0.90
+ Total Amount:				Rs.2790.90
+ =================================================
+

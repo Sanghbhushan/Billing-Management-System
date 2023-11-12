@@ -1,0 +1,18 @@
+	 Welcome Code With Bhushan Mini Mall
+ Bill Number:5528
+ Customer Name:sanghbhushan
+ Phone Number:7972842277
+ Customer Email:sanghbhushan@gmail.com
+ =================================================
+ Products			QTY		Price
+ =================================================
+ Roadster			2		3600
+ Ponds			1		20
+
+
+ ================================================
+ Sub Amount:				Rs.3620.00
+ Tax Amount:				Rs.36.00
+ Total Amount:				Rs.3656.00
+ =================================================
+

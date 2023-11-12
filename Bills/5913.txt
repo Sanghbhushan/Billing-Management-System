@@ -1,0 +1,17 @@
+	 Welcome Code With Bhushan Mini Mall
+ Bill Number:5913
+ Customer Name:jfslkj
+ Phone Number:59837449283
+ Customer Email:jfslkj@gmail.com
+ =================================================
+ Products			QTY		Price
+ =================================================
+ LifeBuy			1		20
+
+
+ ================================================
+ Sub Amount:				Rs.20.00
+ Tax Amount:				Rs.0.00
+ Total Amount:				Rs.20.00
+ =================================================
+

@@ -1,0 +1,21 @@
+	 Welcome Code With Bhushan Mini Mall
+ Bill Number:5622
+ Customer Name:Vishal
+ Phone Number:9673311365
+ Customer Email:Vishal@gmail.com
+ =================================================
+ Products			QTY		Price
+ =================================================
+ Polo			1		1500
+ Olay			1		20
+ Iphone_12			1		85000
+ Garnier			1		30
+ Lux			1		20
+
+
+ ================================================
+ Sub Amount:				Rs.86570.00
+ Tax Amount:				Rs.865.50
+ Total Amount:				Rs.87435.50
+ =================================================
+

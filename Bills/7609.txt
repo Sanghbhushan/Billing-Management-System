@@ -1,0 +1,20 @@
+	 Welcome Code With Bhushan Mini Mall
+ Bill Number:7609
+ Customer Name:rushi
+ Phone Number:7584967284
+ Customer Email:rushi@gmail.com
+ =================================================
+ Products			QTY		Price
+ =================================================
+ Olay			1		20
+ Polo			1		1500
+ Olay			1		20
+ RedmePro			4		36000
+
+
+ ================================================
+ Sub Amount:				Rs.37540.00
+ Tax Amount:				Rs.285.40
+ Total Amount:				Rs.37825.40
+ =================================================
+

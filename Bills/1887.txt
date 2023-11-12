@@ -1,0 +1,18 @@
+	 Welcome Code With Bhushan Mini Mall
+ Bill Number:1887
+ Customer Name:soham
+ Phone Number:4785784998
+ Customer Email:soham@gmail.com
+ =================================================
+ Products			QTY		Price
+ =================================================
+ Polo			1		1500
+ Olay			1		20
+
+
+ ================================================
+ Sub Amount:				Rs.1520.00
+ Tax Amount:				Rs.15.00
+ Total Amount:				Rs.1535.00
+ =================================================
+

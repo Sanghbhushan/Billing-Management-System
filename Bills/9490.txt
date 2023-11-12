@@ -1,0 +1,24 @@
+	 Wlcome Code With Bhushan Mini Mall
+ Bill Number:9490
+ Customer Name:Bhushan
+ Phone Number:7972842277
+ Customer Email:Bhushan@gmail.com
+ =================================================
+ Products			QTY		Price
+ =================================================
+ Polo			1		1500
+ Ponds			1		20
+ Olay			1		20
+ Garnier			1		30
+ Ponds			1		20
+ Iphone_12			1		85000
+ Iphone_12			1		85000
+ RedmePro			1		9000
+
+
+ ================================================
+ Sub Amount:				Rs.180590.00
+ Tax Amount:				Rs.1715.90
+ Total Amount:				Rs.182305.90
+ =================================================
+
